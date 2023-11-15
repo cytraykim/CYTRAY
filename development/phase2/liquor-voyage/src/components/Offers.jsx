@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-export default function Offers() {
+export default function Offers({ addToCart }) {
   const [offers, setOffers] = useState([]);
 
   useEffect(() => {
@@ -25,7 +25,9 @@ export default function Offers() {
           <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
             <p className='font-bold text-2xl px-2 pt-4'>{offer.name}</p>
             <p className='px-2'>{offer.description}</p>
-            <button className='border-white bg-white text-black mx-2 absolute bottom-4'>Explore Now</button>
+            <button onClick={() => addToCart(offer)} className='border-white bg-white text-black mx-2 absolute bottom-4'>
+              Explore Now
+            </button>
           </div>
           <img
             className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'

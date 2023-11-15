@@ -1,6 +1,7 @@
 import React from 'react'
 
-export default function Hero() {
+
+export default function Home() {
   return (
     <div className='max-w-[1640px] mx-auto p-4'>
         <div className='max-h-[500px] relative'>
