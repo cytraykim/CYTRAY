@@ -1,0 +1,144 @@
+{
+    "cocktails": [
+      {
+        "id": 1,
+        "name": "Mohito",
+        "image": "https://images.pexels.com/photos/4021977/pexels-photo-4021977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price": "KES 800"
+      },
+      {
+        "id": 2,
+        "name": "Daquiri",
+        "image": "https://media.istockphoto.com/id/697527846/photo/cuban-cocktail-daiquiri.jpg?b=1&s=612x612&w=0&k=20&c=exbDP-x-4FzX9f7bT6uL-GSd_KqnJ8SsXTnHdt7PfXs=",
+        "price": "KES 750"
+      },
+      {
+        "id": 3,
+        "name": "Manhattan",
+        "image": "https://images.pexels.com/photos/19035123/pexels-photo-19035123/free-photo-of-red-cocktail-with-strawberry-and-with-flowers-near.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 900"
+      },
+      {
+        "id": 4,
+        "name": "Negroni",
+        "image": "https://images.pexels.com/photos/1304540/pexels-photo-1304540.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 850"
+      },
+      {
+        "id": 5,
+        "name": "Old-Fashion",
+        "image": "https://images.pexels.com/photos/3645478/pexels-photo-3645478.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 950"
+      },
+      {
+        "id": 6,
+        "name": "Sex on the Beach",
+        "image": "https://images.pexels.com/photos/8456322/pexels-photo-8456322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price": "KES 700"
+      },
+      {
+        "id": 7,
+        "name": "Martini",
+        "image": "https://images.pexels.com/photos/2260281/pexels-photo-2260281.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "KES 880"
+      },
+      {
+        "id": 8,
+        "name": "Mai Tai",
+        "image": "https://images.pexels.com/photos/19034751/pexels-photo-19034751/free-photo-of-passion-fruit-cocktail-with-ice-cubes-and-mint-leaves.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 820"
+      },
+      {
+        "id": 9,
+        "name": "Whiskey Sour",
+        "image": "https://images.pexels.com/photos/6542666/pexels-photo-6542666.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 890"
+      },
+      {
+        "id": 10,
+        "name": "Piña Colada",
+        "image": "https://images.pexels.com/photos/19034780/pexels-photo-19034780/free-photo-of-pineapple-and-coconut-cocktail-with-ice-cubes-and-little-umbrella.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 770"
+      },
+      {
+        "id": 11,
+        "name": "Bloody Mary",
+        "image": "https://images.pexels.com/photos/5946676/pexels-photo-5946676.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 810"
+      },
+      {
+        "id": 12,
+        "name": "Cosmopolitan",
+        "image": "https://images.pexels.com/photos/7270393/pexels-photo-7270393.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 930"
+      },
+      {
+        "id": 13,
+        "name": "Gin and Tonic",
+        "image": "https://images.pexels.com/photos/17182370/pexels-photo-17182370/free-photo-of-photo-of-a-glass-with-gin-and-tonic.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 860"
+      },
+      {
+        "id": 14,
+        "name": "Tom Collins",
+        "image": "https://images.pexels.com/photos/18939875/pexels-photo-18939875/free-photo-of-maraschino-cherry-on-the-rim-of-a-glass-with-a-pink-lady-cocktail.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 740"
+      },
+      {
+        "id": 15,
+        "name": "Blue Lagoon",
+        "image": "https://images.pexels.com/photos/8771967/pexels-photo-8771967.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 920"
+      },
+      {
+        "id": 16,
+        "name": "Tequila Sunrise",
+        "image": "https://images.pexels.com/photos/2615326/pexels-photo-2615326.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 790"
+      },
+      {
+        "id": 17,
+        "name": "Margarita",
+        "image": "https://images.pexels.com/photos/1590154/pexels-photo-1590154.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 870"
+      },
+      {
+        "id": 18,
+        "name": "Rum Punch",
+        "image": "https://images.pexels.com/photos/9009821/pexels-photo-9009821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 900"
+      },
+      {
+        "id": 19,
+        "name": "White Russian",
+        "image": "https://www.liquor.com/thmb/wzgqg2FC1Sqbwo_PAJofVVZIMRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__12__20073201__white-russian-720x720-article-cbe4b9a832c64f8da0bb09407caefa7f.jpg",
+        "price": "KES 850"
+      },
+      {
+        "id": 20,
+        "name": "Espresso Martini",
+        "image": "https://images.pexels.com/photos/13542580/pexels-photo-13542580.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "KES 920"
+      }
+    ],
+    "offers": [
+      {
+        "id": 1,
+        "name": "Happy Hour",
+        "description": "Enjoy discounted cocktails every weekday from 5 PM to 7 PM!",
+        "image": "https://images.pexels.com/photos/1234537/pexels-photo-1234537.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 2,
+        "name": "Mimosa Sundays",
+        "description": "Relax and unwind with our delightful Mimosa specials every Sunday brunch.",
+        "image": "https://images.pexels.com/photos/1772974/pexels-photo-1772974.jpeg?auto=compress&cs=tinysrgb&w=400"
+      },
+      {
+        "id": 3,
+        "name": "Girls Night",
+        "description": "Ladies, gather your friends for a night of fun with exclusive discounts on selected cocktails!",
+        "image": "https://images.pexels.com/photos/2240763/pexels-photo-2240763.jpeg?auto=compress&cs=tinysrgb&w=400"
+      }
+    ]
+  }
