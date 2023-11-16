@@ -44,9 +44,7 @@ Before you begin, ensure you have the following installed:
 
 3.Install dependencies:
 
- 
-`npm install`
-
+ `npm install`
 
 ## Usage
 
@@ -58,8 +56,8 @@ Before you begin, ensure you have the following installed:
 
 3. Run json-server: 
 
-json-server --watch db.json --port 4000
- 
+`json-server --watch db.json --port 4000`
+
 4. Explore the fascinating world of cocktails and enjoy a personalized shopping experience.
 
 ## Contributing

@@ -16,7 +16,7 @@ export default function Footer() {
         <div className='p-5 w-full sm:w-4/12 md:w-3/12'>
           <div className='text-xs uppercase text-red-400 font-medium mb-6'> Contact Us </div>
           <a href='tracydecy@gmail.com' className='block text-red-300 text-sm font-medium duration-700 hover:text-red-400'>
-            ghalake@gmail.com </a>
+            tracydecy@gmail.com </a>
           <a href='tel:+254797281961' className='block text-red-300 text-sm font-medium duration-700 hover:text-red-400'>
             +254 704 890 205</a>
         </div>
